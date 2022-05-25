@@ -8,7 +8,7 @@
     <artifactId>chapter11</artifactId>
     <version>1.0</version>
     <properties>
-        <spring.version>4.2.1.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
 
 
